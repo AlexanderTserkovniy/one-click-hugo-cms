@@ -1,6 +1,6 @@
 ---
 title: Saia Games is here for you
-subtitle: We develop games which do not punch your with money charge, instead
+subtitle: We develop games which do not punch you with money charge, instead
   they make you thrilled and relaxed at the same time
 image: img/лицо.png
 blurb:
