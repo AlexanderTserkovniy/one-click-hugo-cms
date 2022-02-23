@@ -4,37 +4,7 @@
 
 {{ partial "short-text" .Params.blurb}}
 
-<form name="contact" method="POST" data-netlify="true" data-netlify-recaptcha="true">
-    <div class="flex-l mhn1-l">
-        <!-- Name -->
-        <div class="ph1-l w-50-l">
-            <fieldset>
-                <input type="text" id="name" name="name" placeholder="Name" class="w-100 mb2">
-                <label for="name">Name</label>
-            </fieldset>
-        </div>
-        <!-- Email -->
-        <div class="ph1-l w-50-l">
-            <fieldset>
-                <input type="email" id="email" name="email" placeholder="Email" class="w-100 mb2">
-                <label for="email">Email</label>
-            </fieldset>
-        </div>
-    </div>
-
-    <!-- Message -->
-    <fieldset>
-        <textarea id="message" name="message" placeholder="Your message" rows="8" cols="80" class="w-100"></textarea>
-        <label for="message">Your message</label>
-    </fieldset>
-
-    <div data-netlify-recaptcha="true"></div>
-
-    <!-- Button -->
-    <div class="tc">
-        <button type="submit" class="btn w-100 w-auto-ns raise">Submit</button>
-    </div>
-</form>
+{{ partial "message-form" }}
 
 {{ partial "2-up" .Params }}
 
