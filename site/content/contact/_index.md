@@ -1,19 +1,21 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: img/лицо.png
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
+    text: 03039 Kyiv, Ukraine
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
----
+    text: |-
+      Monday – Sunday: 9AM – 11PM
 
+      We’re never closed, but we might get rest on weekends.
+---
 We’d love to get in touch with you and hear your ideas and
 questions. We strive to grow and improve constantly and your feedback
 is valuable for us.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
+<h3 class="f4 b lh-title mb2">Any question</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+While our main location is written below, you could reach us any time, with any question.
+
+You might ask us about future games, existing games, game mechanics, what we think about..., how could you participate in game testing, how could you join our team, anything what you like.
